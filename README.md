@@ -12,5 +12,5 @@ Open source automation for the design of analog, mixed signal, and RF IC design
 
 ### Projects 
 
-- [Viper](https://github.com/cascode-labs/viper) IC design Environment
+- [Viper](http://www.cascode-labs.org/viper/) IC design Environment
 - [viper-forge](http://www.cascode-labs.org/viper-forge/) community-led IC design packages

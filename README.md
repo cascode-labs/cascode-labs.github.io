@@ -8,7 +8,8 @@ Open source automation for the design of analog, mixed signal, and RF IC design
 - Encourage collaboration among designers with an interest in design automation
 - Lower the barrier to entry for analog and RF design engineers with basic coding skills
 - Develop analog and RF IC generators that can produce IP in multiple processes and adjust to variations in specifications.
-- Get home in time for dinner every night
+- Accelerate designer productivity improvement
+- Lower the barrier to entry into IC design
 
 ## Projects
 

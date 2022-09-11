@@ -1,6 +1,10 @@
 # CASCODE-LABS
 
-Open source automation for the design of analog, mixed signal, and RF IC design
+Cascode-labs is developing an open source automation kernel for the design of
+analog, mixed signal, and RF IC designs.  Our projects are designed to work
+with both other open-source design tools and proprietary design tools.
+
+We are partnering with MOSAIC to achieve these goals
 
 ## Goals
 
@@ -16,5 +20,8 @@ Open source automation for the design of analog, mixed signal, and RF IC design
 - [Viper](http://www.cascode-labs.org/viper/) IC design Environment
 - [viper-forge](http://www.cascode-labs.org/viper-forge/) community-led IC
 design packages
-- [virtue](http://www.cascode-labs.org/virtue/) Cadence Virtuoso support for
-Viper
+- [virtue](http://www.cascode-labs.org/virtue/) Cadence Virtuoso SKILL and
+Python framework for easily integrating automated design projects into
+Virtuoso.
+
+

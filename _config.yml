@@ -4,4 +4,6 @@ description: Open Source Circuit Design
 logo: /logo/vecteezy_isometric-microchip-on-a-white-background_.jpg
 header_pages:
   - about.md
-  - https://www.mosaic-ic.org/
+author:
+  name: Curtis Mayberry
+  email: "Curtisma3@gmail.com"

@@ -27,7 +27,7 @@ design packages
 - [Virtue](http://www.cascode-labs.org/virtue/) Cadence Virtuoso SKILL and
 Python framework for easily integrating automated design projects into
 Virtuoso.
-- [Data-panels](https://github.com/cascode-labs/data-panels): Export
+- [Data-panels](http://www.cascode-labs.org/data-panels): Export
   data reports from simulation results to pptx slides
 - [Morpheus](https://github.com/cascode-labs/morpheus):
 Generate Maestro circuit test benches in Cadence Virtuoso

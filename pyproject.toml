@@ -1,0 +1,32 @@
+[project]
+name = "cascode-labs"
+version = "2024.5.12"
+dependencies = [
+  "mkdocs-material == 9.5.21",
+  "mkdocs-material[imaging]",
+]
+requires-python = ">=3.10"
+authors = [
+  {name = "Curtis Mayberry", email = "Curtisma3@gmail.com"},
+]
+maintainers = [
+  {name = "Curtis Mayberry", email = "Curtisma3@gmail.com"},
+]
+description = "Cascode-labs.org site"
+readme = "README.md"
+license = {file = "LICENSE.txt"}
+keywords = ["homepage", "portfolio", "Curtis", "Mayberry", "Engineering"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python",
+  "Private :: Do Not Upload"
+]
+
+[project.urls]
+Homepage = "https://www.cascode-labs.org/"
+Repository = "https://github.com/cascode-labs/Cascode-labs.github.io"
+"Bug Tracker" = "https://github.com/cascode-labs/cascode-labs.github.io/issues"
+
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"

@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+sudo apt-get update -y
+sudo apt-get install -y \
+   libcairo2-dev \
+   libfreetype6-dev \
+   libffi-dev \
+   libjpeg-dev \
+   libpng-dev \
+   libz-dev \
+   pngquant
+# sudo apt-get install pngquant
+
+uv venv .venv
+# shellcheck source=/dev/null
+source .venv/bin/source/activate
+uv pip install -e .

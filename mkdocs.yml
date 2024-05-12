@@ -1,0 +1,29 @@
+site_name: Cascode Labs
+site_url: https://www.cascode-labs.org/
+repo_url: https://github.com/cascode-labs/cascode-labs.github.io
+repo_name: 'GitHub'
+site_description: Open-source Analog & RF Integrated Circuit Design
+site_author: Curtis Mayberry
+
+nav:
+  - Home: index.md
+  # - Projects:
+  #   - projects/index.md
+  #   - projects/cicc-panels-oshic/cicc_panel_oschic.md
+  # - Blog:
+  #   - blog/index.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+  - social
+  - blog

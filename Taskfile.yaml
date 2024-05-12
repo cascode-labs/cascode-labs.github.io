@@ -1,0 +1,7 @@
+version: '3'
+
+tasks:
+  serve:
+    desc: Serve a auto-reload local dev version
+    cmds:
+      - mkdocs serve

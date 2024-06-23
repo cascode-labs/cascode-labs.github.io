@@ -34,6 +34,6 @@ processes and adjust to variations in specifications.
 Python framework for easily integrating automated design projects into
 Virtuoso.
 
-[Related Organizations]
+## Related Organizations
 
 - [MOSAIC](https://www.mosaic-ic.org/)

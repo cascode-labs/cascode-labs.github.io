@@ -4,20 +4,19 @@ Cascode-labs is developing an open source automation kernel for the design of
 analog, mixed signal, and RF IC designs.  Our projects are designed to work
 with both other open-source design tools and proprietary design tools.
 
-We are partnering with [MOSAIC](https://www.mosaic-ic.org/) to achieve 
-these goals.
+<!-- We are partnering with [MOSAIC](https://www.mosaic-ic.org/) to achieve 
+these goals. -->
 
 ## Goals
 
-- Advance the state of the art in analog and RF IC design automation.
+- Accelerate designer productivity improvements
+- Lower the barrier to entry into IC design
 - Encourage collaboration among designers with an interest in
   design automation
 - Lower the barrier to entry for analog and RF design engineers with
   basic coding skills
 - Develop analog and RF IC generators that can produce IP in multiple
 processes and adjust to variations in specifications.
-- Accelerate designer productivity improvement
-- Lower the barrier to entry into IC design
 
 ## Projects
 
